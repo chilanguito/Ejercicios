@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20fce065-cd54-46fc-a9e9-e1265cfe6137" name="Default Changelist" comment="" />
+    <list default="true" id="20fce065-cd54-46fc-a9e9-e1265cfe6137" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/practica/NumericDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practica/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practica/StringDataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practica/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practica/AppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practica/MyArrayInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practica/MyDynamicArray.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VxqazcURMQsxMHxKDmYlTNDn7Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -84,10 +95,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1578209385377" />
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1578207684443">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1578211489553">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578207684443" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578211489553" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578210939902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578210939902" />
     <state width="1323" height="234" key="GridCell.Tab.0.bottom" timestamp="1578210419709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
