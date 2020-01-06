@@ -4,7 +4,9 @@ public class NumericDataType implements Operations<Double> {
     @Override
     public void addition(Double a, Double b) {
         double result=a+b;
-        System.out.println("The addition of two numbers is: "+result);
+        System.out.printf("%.2f",result);
+      //  System.out.printf("The addition of two numbers is:  "+"%.2d %n",result);
+        //System.out.printf("%+.3f %n", n);
     }
 
     @Override
